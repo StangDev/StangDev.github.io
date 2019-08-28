@@ -4,6 +4,12 @@
  * Released under the MIT License.
  */
 
+/**
+ * vuex v3.1.1
+ * (c) 2019 Evan You
+ * @license MIT
+ */
+
 /*!
   * vue-router v3.0.7
   * (c) 2019 Evan You
@@ -55,5 +61,11 @@
 /*!
  * vue-client-only v2.0.0
  * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-i18n v8.14.0 
+ * (c) 2019 kazuya kawaguchi
  * Released under the MIT License.
  */
